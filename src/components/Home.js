@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import myImage from './images/abqari.jpeg';
+import myImage from './images/abqari.jpg';
 import { MdKeyboardArrowRight } from 'react-icons/md'
 
 const Home = () => {
